@@ -1,5 +1,5 @@
 
-# Hi, I am Jenny 🙋🏻‍♀️ 
+# Hi, I'm Jenny 🙋🏻‍♀️ 
 🏥 I am a Health Informatics undergraduate exploring the intersection of healthcare and technology<br> 
 📈 Interested in data analytics, information technology, and creating tools to improve healthcare systems
 ## 👩🏻‍💻 Tech Stack:
